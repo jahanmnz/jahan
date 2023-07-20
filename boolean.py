@@ -1,5 +1,5 @@
 x = "bgi khuda"
-y= 0
+y= False
 
 print(bool(x))
 print(bool(y))
