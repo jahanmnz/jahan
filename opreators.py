@@ -1,10 +1,12 @@
-x = ("apple", "banana")
-y = ("apple", "banana") 
+"""x = ["apple", "banana"]
+y = ["apple", "banana"]
 z = x
-
+ 
 print (x is z)
-print (x is y)
-print (x == x)
+print(x is y)
+print(x == z)"""
+
+
 
 
 #x = 9 
@@ -17,9 +19,9 @@ print (x == x)
 
 
 
-#x = 20 
-#y = 50  
-#print(x!=y)
+x = 20 
+y = 20 
+print(x==y)
 
 
 #x = 5 
@@ -27,6 +29,6 @@ print (x == x)
 #print(x)
 
 
-#x =8
-#y = 10 
-#print ( x*y)
+"""x =8
+y = 10 
+print ( x*y)"""
