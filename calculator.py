@@ -1,6 +1,7 @@
-first = float(input("Enter first number =>"))
-sec = float(input("Enter second number =>"))
-opr =str(input("Enter operation (+,-,*,/) =>"))
+first = float (input("Enter first number =>"))
+sec = float (input("Enter second number =>"))
+opr = str(input("Enter operation (+,-,*,/) =>"))
+
 
 if opr == "+":
     total = first + sec
@@ -11,5 +12,9 @@ elif opr == "*":
 elif opr == "/":
     total = first / sec
 else:
-    total=str("Gham daroo sayee operation select ko")
-print (total)
+    total=str("Select valid operation")
+
+print (("Your anwser is ") + str (total))
+
+
+
