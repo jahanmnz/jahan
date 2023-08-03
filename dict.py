@@ -22,19 +22,11 @@ print (x)""
 thisdict={"name":"jahan",
    "age": "35" ,"number":"944308"}
 thisdict.pop("age")
-print (thisdict)""
+print (thisdict)"""
 
 
 
 thisdict={"name":"jahan",
    "age": "35" ,"number":"944308"}
 thisdict["age"]=20
-print (thisdict)"""
-
-mycars= {
-"cars1" ,{ "name":"volvo", "color":"red"} , 
-
-    "cars2", {"name":"BMW" ,"color":"blue"} ,
-
-    "car3" ,{"name":"toyota","color":"yellow"} }
-print(mycars["cars2"]["name"])
+print (thisdict)

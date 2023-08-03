@@ -44,7 +44,7 @@ for char in characters:
     if is_vowel(char):
         print(f"{char} is a vowel.")
     else:
-        print(f"{char} is not a vowel.")
+        print(f"{char} is not a vowel.")"""
 
  
 
@@ -54,8 +54,4 @@ def factorial(n):
     else:
         return n * factorial(n-1)
     
-print(factorial(5))"""
-
- 
-factorial = float(input("Put factorail number=>"))
-print(float( n *factorial("n" - 1)))
+print(factorial(5))

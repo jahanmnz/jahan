@@ -10,6 +10,8 @@ elif a==b :
 else:
     print("someting is wrong")""
 
+    
+
 a = 200
 b = 300
 if b >a:

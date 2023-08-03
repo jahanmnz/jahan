@@ -1,6 +1,6 @@
 def function(country, city , province):
- print("my country is " + country)
- print("my provinceis " + province)
- print("my city is " + city)
+ print("My country is " + country)
+ print("My provinceis " + province)
+ print("My city is " + city)
 
 function(country="Afghanistan", province=" Bamyan" , city="bamyan")
